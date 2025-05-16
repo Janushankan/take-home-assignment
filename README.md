@@ -1,4 +1,4 @@
-# Interview Assignmen
+# Interview Assignment
 ## Frontend Task
 
 ### Requirements
@@ -61,6 +61,3 @@
 - Add comments to explain complex logic
 - Include setup instructions in your README
 
-## Questions?
-
-If you have any questions about the assignment, please contact gauth672@gmail.com 
